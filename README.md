@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Sagar 👋
 
-<!--
-**SS1908/SS1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Engineering Studend and Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Pythno
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with Machine Learning Enthusiast
+- 🥅 2020 Goals: Excellent rank in GATE
+- ⚡ Fun fact: I love to play video games
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[instagram]: https://instagram.com/sagar_patel_1908
+[linkedin]: https://www.linkedin.com/in/sagar-chodavadiya-1131a1150/
+
+
