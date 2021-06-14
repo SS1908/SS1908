@@ -2,7 +2,7 @@
 
 ## I'm a Engineering Studend and Developer
 
-- 🔭 I’m currently working on a Pythno
+- 🔭 I’m currently working on a Python
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Machine Learning Enthusiast
 - 🥅 2020 Goals:Pursuing Excellent rank in GATE
