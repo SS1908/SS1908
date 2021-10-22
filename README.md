@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Python
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Machine Learning Enthusiast
-- 🥅 2020 Goals:Pursuing Excellent rank in GATE
+- 🥅 2021 Goals:ML
 - ⚡ Fun fact: I love to play video games
 ---
 
