@@ -3,7 +3,7 @@
 ## I'm a Engineering Studend and Developer
 
 - 🔭 I’m currently working on a Python
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate with Machine Learning Enthusiast
 - 🥅 2021 Goals:ML
 - ⚡ Fun fact: I love to play video games
